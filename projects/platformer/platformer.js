@@ -66,10 +66,8 @@ createCollectable("diamond",500,300,0,0)
     // example usage: createCannon(side, position, delay, width, height)
 
 createCannon('top',725,3000,40,40)
-createCannon("right",700,2500,40,40)
+createCannon("right",650,2500,40,40)
 createCannon("left",300,3000,40,40)
-createCannon("bottom",550,10000,10000,10000)
-    
     /////////////////////////////////////////////////
     //////////ONLY CHANGE ABOVE THIS POINT///////////
     /////////////////////////////////////////////////
